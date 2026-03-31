@@ -1,0 +1,762 @@
+[
+   {
+      "status" : "404 Not Found",
+      "url" : "http://www.yapc.org/America/previous-years/2001/",
+      "type" : "dead"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "http://www.yapc.org/America/previous-years/2002/",
+      "type" : "dead"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "http://www.yapc.org/America/previous-years/2003/",
+      "type" : "dead"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "http://www.yapc.org/America/previous-years/2004/",
+      "type" : "dead"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "http://www.yapc.org/America/previous-years/2005/",
+      "type" : "dead"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "https://perlconference.us/tpc-2020-hou/",
+      "type" : "dead"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "https://perlrakucon.eu/",
+      "type" : "dead"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "http://yapceurope.lv/ye2011/",
+      "type" : "dead"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "http://www.openfoundry.org/news/175",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20101212194125/http://www.perl.org.br/YAPC/BR2007/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20101227101818/http://www.perl.org.br/YAPC/BR2008/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20150218004509/http://www.yapcbrasil.org.br/2011/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20150219041502/http://yapcbrasil.org.br/2012/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20140719011809/http://www.yapcbrasil.org.br/2010",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20091021142551/http://www.yapcbrasil.org.br/2009/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130929000455/http://2013.yapcbrasil.org.br/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20140809024243/http://2014.yapcbrasil.org.br/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20150924060918/http://www.openfoundry.org/tw/foss-news/604-yapc2004taipei-327-28",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20150924060900/http://www.openfoundry.org/news/175",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "http://linux.die.net/man/1/perl",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130111100906/http://history.perl.org/PerlTimeline.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20180724213601/http://dev.perl.org/licenses/artistic.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20180725033309/http://perl5.git.perl.org/perl.git/blob/HEAD:/Artistic",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110122175123/http://dev.perl.org/licenses/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20170728023959/http://www.perl.com/pub/2007/12/06/soto-11.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130528001715/http://learn.perl.org/faq/perlfaq1.html#Whats-the-difference-between-perl-and-Perl",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130603152544/http://linux.die.net/man/1/perl",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110605130400/http://www.perl.com/pub/2000/10/begperl1.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20151106051931/https://www.perl.org/about.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20201112035821/https://github.com/Raku/problem-solving/blob/master/solutions/language/Path-to-Raku.md",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "http://archive.oreilly.com/pub/a/oreilly/perl/news/importance_0498.html",
+      "type" : "dead"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "https://archive.org/details/linux00libg_999",
+      "type" : "dead"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "https://archive.org/details/linux00libg_999/page/n595",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20200712000728/https://benchmarksgame-team.pages.debian.net/benchmarksgame/how-programs-are-measured.html#source-code",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20201008120935/https://everything2.com/title/RSA+in+3+lines+of+perl",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20150310123855/http://www.catb.org/esr/writings/taoup/html/ch14s04.html#perl",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "https://archive.org/details/learningperl00schw_278",
+      "type" : "dead"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "https://archive.org/details/learningperl00schw_278/page/n27",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20150204175543/http://www.cio.com/article/2437271/developer/you-used-perl-to-write-what--.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20150202010003/http://archive.oreilly.com/pub/a/oreilly/perl/news/importance_0498.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "http://www.perlfoundation.org/perl_trademark",
+      "type" : "dead"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "http://archive.oreilly.com/pub/a/oreilly/perl/usage",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20080604140740/http://www.perl.com/pub/a/2000/10/begperl1.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20120706094345/http://www.salon.com/1998/10/13/feature_269/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "https://www.oreilly.com/library/view/programming-perl-3rd/0596000278/",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20160307004219/https://www.wired.com/2000/10/cruise/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130720013904/http://www.linuxjournal.com/article/3394",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130701050810/http://perldoc.perl.org/perl.html#BUGS",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110503211915/http://www.perlfoundation.org/perl_trademark",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20180425080044/http://archive.oreilly.com/pub/a/oreilly/perl/usage",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110430031425/http://articles.chicagotribune.com/1998-10-25/news/9810250094_1_programmers-open-source-movement-programming-community",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110501081803/http://www.nntp.perl.org/group/perl.perl5.porters/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110113030100/http://perldoc.perl.org/perlhist.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20191003040107/https://www.cpan.org/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110227200616/http://perldoc.perl.org/perl5004delta.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110203100249/http://perldoc.perl.org/perl5005delta.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110202135358/http://perldoc.perl.org/perl56delta.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "525 <none>",
+      "url" : "http://dev.perl.org/perl6/doc/design/apo/A01.html",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20101118101544/http://perldoc.perl.org/perl561delta.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20101123182201/http://dev.perl.org/perl6/doc/design/apo/A01.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20101121023149/http://perldoc.perl.org/perl58delta.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110511190417/http://www.perlmonks.org/?node_id=835936",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "http://www.oreillynet.com/onlamp/blog/2005/08/oscon_44_inside_ponie_the_brid.html",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20120314013450/http://www.oreillynet.com/onlamp/blog/2005/08/oscon_44_inside_ponie_the_brid.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20090627091007/http://news.perlfoundation.org/2006/08/ponie_has_been_put_out_to_past.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20101221024004/http://perldoc.perl.org/perl5100delta.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "http://perl11.org/p2/",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130826100652/http://perldoc.perl.org/perlsyn.html#Smart-matching-in-detail",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110104093548/http://perldoc.perl.org/perl5120delta.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20180725004523/https://metacpan.org/pod/distribution/perl/pod/perl5140delta.pod",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20131029224638/https://metacpan.org/pod/release/RJBS/perl-5.18.1/pod/perl5180delta.pod",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20121027105918/http://www.modernperlbooks.com/mt/2009/07/milestones-in-the-perl-renaissance.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20120928232457/http://modernperlbooks.com/books/modern_perl/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20111222045417/http://onyxneon.com/books/modern_perl/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20140205015536/http://www.enlightenedperl.org/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130622201417/http://www.yapcna.org/yn2013/talk/4725",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20131219185710/http://blogs.perl.org/users/stevan_little/2013/02/what-is-moe-a-clarification.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130924023845/http://perl11.org/p2/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "http://perlcabal.org/syn/",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20150223170215/https://github.com/goccy/gperl",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20141018002115/http://rperl.org/faq.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110221094526/http://perl6.org/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110501081806/http://www.nntp.perl.org/group/perl.perl6.meta/2000/10/msg424.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20090831103918/http://perlcabal.org/syn/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20080321164747/http://ebb.org/bkuhn/writings/technical/thesis/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "http://perl6.org/compilers/features",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20170811073233/https://perl6.org/compilers/features",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20131005055559/http://6guts.wordpress.com/2013/07/15/rakudo-jvm-news-more-tests-plus-thread-and-promise-prototypes/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130709185252/http://6guts.wordpress.com/2013/05/31/moarvm-a-virtual-machine-for-nqp-and-rakudo/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20191017155422/https://lwn.net/Articles/802329/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "https://www.fastcompany.com/3026446/the-fall-of-perl-the-webs-most-promising-language",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20170729084734/https://github.com/rakudo/rakudo/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20200626213418/https://news.perlfoundation.org/post/perl_7_announced_sawyerx_conference",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20200624160531/https://www.perl.com/article/announcing-perl-7/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20210518015233/https://www.nntp.perl.org/group/perl.perl5.porters/2021/05/msg260050.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20200625004047/https://leanpub.com/preparing_for_perl7",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "525 <none>",
+      "url" : "http://www.perl6.org/archive/faq.html",
+      "type" : "dead"
+   },
+   {
+      "status" : "525 <none>",
+      "url" : "http://www.perl6.org/specification",
+      "type" : "dead"
+   },
+   {
+      "status" : "525 <none>",
+      "url" : "http://www.perl6.org/compilers/",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20101209021107/http://www.linuxjournal.com/article/2070",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110106003034/http://perldoc.perl.org/perlfunc.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130626010707/http://perldoc.perl.org/perlstyle.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130701183900/http://www.perl6.org/archive/faq.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130729214209/http://www.modernperlbooks.com/mt/2012/12/the-implementation-of-perl-5-versus-perl-6.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "418 Unknown Code",
+      "url" : "https://doi.org/10.1109%2FBigData.2014.7004303",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20091202073507/http://www.perl6.org/specification/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "418 Unknown Code",
+      "url" : "https://doi.org/10.1109%2FBigData.2014.7004303",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20091202073302/http://www.perl6.org/compilers/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20070927000827/http://www.perlmonks.org/index.pl?node_id=44722",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20200227002839/ftp://ftp.ora.com/pub/labs/tpj/tpj2.pdf",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "http://docs.activestate.com/activeperl/5.12/faq/ActivePerl-faq2.html",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130903091241/https://metacpan.org/module/PPI",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20090817183115/http://www.jeffreykegler.com/Home/perl-and-undecidability",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20060418115903/http://www.cpan.org/ports/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20160331201814/http://www.activestate.com/activeperl",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20060118125208/http://www.macperl.com/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20060418115903/http://www.cpan.org/ports/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20100827110749/http://docs.activestate.com/activeperl/5.12/faq/ActivePerl-faq2.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130325192723/https://alioth.debian.org/projects/benchmarksgame/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20200728080612/https://www.activestate.com/blog/goodbye-ppm-hello-state-tool/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130517145336/http://benchmarksgame.alioth.debian.org/u32/which-programs-are-fastest.php?v8=on&amp;lua=on&amp;jruby=on&amp;php=on&amp;python3=on&amp;yarv=on&amp;perl=on",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20060613025623/http://www.perl.com/pub/a/2005/12/21/a_timely_start.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "https://archive.org/details/beginningphpmysq00gilm_240/page/n519",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20210330011632/https://metacpan.org/pod/release/NWCLARK/perl-5.8.8/ext/B/B/Bytecode.pm#KNOWN-BUGS",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "https://wiki.debian.org/PerlFAQ",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20130613163723/https://metacpan.org/module/Inline",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "404 Not Found",
+      "url" : "https://archive.org/details/beginningphpmysq00gilm_240",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110109121845/http://perldoc.perl.org/perlintro.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20170309083513/http://www.imdb.com/help/search?domain=helpdesk_faq&amp;index=1&amp;file=techinfo",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20101231135106/http://www.gabrielweinberg.com/blog/2009/03/duck-duck-go-architecture.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20190806111259/https://wiki.debian.org/PerlFAQ",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110907020511/http://books.perl.org/book/95",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20201008130113/https://sites.google.com/a/principlesofprogram.com/www/perl",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20070822162513/http://perl.apache.org/docs/1.0/guide/performance.html#Efficient_Work_with_Databases_under_mod_perl",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20200806100410/https://metacpan.org/pod/Class::DBI",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20200806085143/https://metacpan.org/pod/Rose::DB::Object",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20140522141559/http://grnlight.net/index.php/programming-articles/100-perl-culture",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "http://oreilly.com/catalog/tpj3/chapter/ch43.pdf",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20120717014443/http://www.wall.org/~larry/onion/onion.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110722055125/http://www.perlmonks.org/bare/?node_id=443856",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "http://shop.oreilly.com/product/0636920018452.do",
+      "type" : "dead"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "http://shop.oreilly.com/product/9780596004927.do",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110707134412/http://groups.google.com/group/comp.lang.perl.misc/msg/7b97c434492c8d20",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20110119154503/http://www.cypherspace.org/rsa/pureperl.html",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20120113152453/http://codegolf.com/",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20091122114544/http://oreilly.com/catalog/tpj3/chapter/ch43.pdf",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "429 Too Many Requests",
+      "url" : "https://search.worldcat.org/title/931405345",
+      "type" : "dead"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "http://ofps.oreilly.com/titles/9781118013847/index.html",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20070927000904/http://www.perlmonks.org/?node_id=1590",
+      "type" : "unreachable"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "https://www.nli.org.il/en/authorities/987007532328005171",
+      "type" : "dead"
+   },
+   {
+      "status" : "403 Forbidden",
+      "url" : "https://lux.collections.yale.edu/view/concept/5e42381e-fa33-4a8d-8973-9fb10bd400be",
+      "type" : "dead"
+   },
+   {
+      "status" : "500 Can't connect to web.archive.org:443 (No connection could be made because the target machine actively refused it.)",
+      "url" : "https://web.archive.org/web/20111222045417/http://onyxneon.com/books/modern_perl/",
+      "type" : "unreachable"
+   }
+]
