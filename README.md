@@ -36,4 +36,4 @@ Dead Links: 40
 Check `example\perlWiki.json` for a sample JSON output
 
 ## Little Note
-Don't ask why Perl. I know you are running Linux which has perl installed by default :)
+I built this partially because I'm overwhelmed currently by taking large projects and needed to just have fun a bit. Also don't ask why Perl. I know you are running Linux which has perl installed by default :)
